@@ -1,0 +1,7 @@
+mycongig:
+  params:
+    message: "hello from myservice1 remote config - on prod environment"
+logging:
+    level:
+        org:
+            springframework: WARN 

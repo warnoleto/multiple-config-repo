@@ -1,0 +1,8 @@
+mycongig:
+  params:
+    message: "hello from team2 arbitrary service remote config"
+    label: "ARBITRARY SERVICE"
+logging:
+    level:
+        org:
+            springframework: DEBUG 

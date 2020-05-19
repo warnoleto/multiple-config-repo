@@ -1,0 +1,8 @@
+mycongig:
+  params:
+    message: "hello from myservice1 remote config"
+    label: "my-service1"
+logging:
+    level:
+        org:
+            springframework: INFO	

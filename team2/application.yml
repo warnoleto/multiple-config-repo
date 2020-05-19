@@ -1,3 +1,11 @@
 my:
   team:
     label: "team2"
+common:
+  params:
+    label: "common label on team 2"
+    message: "team 2 common message to all services"
+logging:
+    level:
+        org:
+            springframework: WARN 
