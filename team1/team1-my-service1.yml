@@ -1,6 +1,6 @@
 mycongig:
   params:
-    message: "hello from myservice1 remote config"
+    message: "hello from myservice1 remote config from new feature service"
     label: "my-service1"
 logging:
     level:
