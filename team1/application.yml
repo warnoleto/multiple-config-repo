@@ -4,4 +4,4 @@ my:
 common:
   params:
     label: "common"
-    message: "all services common properties"
+    message: "common properties to all services"
