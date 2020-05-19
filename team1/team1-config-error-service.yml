@@ -1,0 +1,9 @@
+mycongig:
+  params:
+    message: "this is a config with arbitrary sintax error"
+    label: "config error service"
+logging 
+  sintax error
+    level:
+        org:
+            springframework: DEBUG
