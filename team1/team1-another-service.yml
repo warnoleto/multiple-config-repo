@@ -1,0 +1,9 @@
+mycongig:
+  params:
+    message: "this is a new feature under development"
+    label: "another service"
+    someKey: "some key for this feature"
+logging:
+    level:
+        org:
+            springframework: DEBUG
